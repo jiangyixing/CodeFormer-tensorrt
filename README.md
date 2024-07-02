@@ -15,7 +15,7 @@
         gpu==4070ti
         
 
-具体库对应的版本见，项目的new_requirements.txt 脚本
+具体库对应的版本，参考项目的new_requirements.txt 脚本
 
 2.效果对比
 
